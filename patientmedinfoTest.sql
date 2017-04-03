@@ -20,3 +20,4 @@ WHERE
     products.form = 'TABLET;ORAL';
  
  SELECT COUNT(*) FROM products WHERE products.form = 'TABLET;ORAL';
+ 
